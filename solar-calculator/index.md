@@ -14,3 +14,7 @@ Tip：The power of the photovoltaic array generally cannot exceed 1.1 times the 
 ## Voltage
 
 Please input the maximum and minimum values of the voltage of the inverter or the VFD or the charge controller.
+
+# Contact us
+
+For more designs, such as solar pumps, pivot sprinkler irrigation machines, aerators, air conditioners, energy storage systems, etc. Please send email to [solarsolution380@gmail.com](mailto:solarsolution380@gmail.com).
